@@ -4,6 +4,7 @@ Welcome to my GitHub for creative coding projects.
 I'm currently learning GitHub to manage C++ Visual Studio code.
 # To Do List
 - [ ] Learn GitHub
-- [ ] Edit matkdown in VS Studio
+- [ ] Edit markdown in VS Studio
+- [ ] Edit a .MD in VSCode
 - [ ] Record progress in a Markdown file
 - [ ] Create a Markdown website for kevinlarge.com
