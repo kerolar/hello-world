@@ -17,3 +17,7 @@ I'm currently learning GitHub to manage C++ Visual Studio code.
 # Learning Resouces
 * [Writing on GitHub]( https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 * [Advanced Formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+## C++ Resources
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp)
+* [learncpp.com](https://www.learncpp.com/)
+* 
