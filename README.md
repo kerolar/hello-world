@@ -11,3 +11,5 @@ I'm currently learning GitHub to manage C++ Visual Studio code.
 # C++
 - [ ] Do more exapmles
 - [ ] Find a good book. 
+* Make a start
+* 
