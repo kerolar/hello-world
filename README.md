@@ -8,6 +8,7 @@ I'm currently learning GitHub to manage C++ Visual Studio code.
 - [ ] Edit a .MD in VSCode
 - [ ] Record progress in a Markdown file
 - [ ] Create a Markdown website for kevinlarge.com
+- [ ] Setup a [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) website for kevinlarge.com using [GitHub Pages](https://docs.github.com/en/pages).
 # C++
 - [x] Do more exapmles
 - [ ] Find a good book. 
