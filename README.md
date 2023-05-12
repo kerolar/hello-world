@@ -14,3 +14,5 @@ I'm currently learning GitHub to manage C++ Visual Studio code.
 * Make a start
 * Allocate time blocks.
 * Don't forget the website
+# Learning Resouces
+* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
