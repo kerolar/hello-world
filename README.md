@@ -9,7 +9,7 @@ I'm currently learning GitHub to manage C++ Visual Studio code.
 - [ ] Record progress in a Markdown file
 - [ ] Create a Markdown website for kevinlarge.com
 # C++
-- [ ] Do more exapmles
+- [x] Do more exapmles
 - [ ] Find a good book. 
 * Make a start
 * 
