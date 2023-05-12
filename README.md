@@ -9,7 +9,7 @@ I'm currently learning GitHub to manage C++ Visual Studio code.
 - [ ] Record progress in a Markdown file
 - [ ] Setup a [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) website for kevinlarge.com using [GitHub Pages](https://docs.github.com/en/pages).
   - [ ] [GitHub Pages](https://pages.github.com/)
-  - [ ] Can I use Grammarly Markdown and Jekyll? 
+  - [ ] Can I use Grammarly in Markdown and Jekyll? 
 # C++
 - [x] Do more exapmles
 - [ ] Find a good book. 
