@@ -12,4 +12,5 @@ I'm currently learning GitHub to manage C++ Visual Studio code.
 - [x] Do more exapmles
 - [ ] Find a good book. 
 * Make a start
-* 
+* Allocate time blocks.
+* Don't forget the website
